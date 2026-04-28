@@ -548,6 +548,9 @@ CopyToggle Text Wrapping
 >
 >This is an IMPORTANT note.
 
+
+## 17.1 Notas de pie
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
