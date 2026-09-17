@@ -1,0 +1,22 @@
+site_name: Apuntes de Informática - Pablo Rabasco (by Ginés López)
+site_description: Materiales de los módulos de DAM del IES Las Espeñetas en Orihuela, Alicante, durante el curso 2026/2027.
+site_author: Pablo Rabasco
+site_url: https://prabasco.github.io/
+
+theme:
+  name: material
+  language: es
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+  - Programación: https://prabasco.github.io/PRG/
+  - Entornos de Desarrollo: https://gines-lopez.github.io/EDE/
+  - Programación Multimedia y Dispositivos Móviles: https://gines-lopez.github.io/PMDM/
+  - Proyecto Intermodular 2º DAM: https://gines-lopez.github.io/PI2DAM/
